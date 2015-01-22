@@ -33,9 +33,10 @@
         <?php echo "Devenir un moudjahid" ?>
       </div>
       <div class="form">
-        <form action="action.php" method="post">
+        <form action="form.php" method="post">
           <p>Votre nom : <input type="text" name="name"></p>
           <p>Votre âge : <input type="text" name="age"></p>
+          <p>Votre email : <input type="text" name="email"></p>
           <p>Vos motivations : <input type="text" size="60" name="motivation"></p>
           <p><input type="submit" value="OK"></p>
         </form>
