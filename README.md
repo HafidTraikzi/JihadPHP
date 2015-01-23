@@ -18,4 +18,4 @@ Il existe un chemin /var/www/, mettre le dossier JihadPHP dedans.
 
 ##Lancement
 
-Tapez la commande ```bash sudo service apache2 start ``` pour lancer le serveur. Puis dans la barre url, entrez localhost:80. 
+Tapez la commande ``` sudo service apache2 start ``` pour lancer le serveur. Puis dans la barre url, entrez localhost:80. 
