@@ -14,7 +14,7 @@ Pré-requis pour avoir php5, apache2 et mySQL.
 
 ##Configuration
 
-Il exite un chemin /var/www/, mettre le dossier JihadPHP dedans.
+Il existe un chemin /var/www/, mettre le dossier JihadPHP dedans.
 
 ##Lancement
 
